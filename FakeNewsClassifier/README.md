@@ -58,10 +58,16 @@ After that we calculated the sentiment using NLTK for each text and title elemen
 
 ## Exploratory data analysis
 
+Analysis can be found in the notebook.
 
 ## Preliminary data analysis report 
 We found that while both fake and real news have faily balanced sentiments, the fake news had a slighly negative mean and the real news had a slightly positive mean.
 
 Additionally, while the general clustering of word counts was similar in fake news and real news, fake news had a significant number of outliers. 
+
+Based on the data we collected regarding parts of speech, fake news contains significantly more cordinating conjunctions, existential there, prepositions and subbordinating conjunctions, personal pronouns, adverbs, the word to, interjections, and singular present verbs.
+
+Real news contained more cardinal digits, modal could or will, proper nouns, proper noun plural, predeterminers, and past tense verbs.
+
 
 Graphs for this data can be found in our notebook.
